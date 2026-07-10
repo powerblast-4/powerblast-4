@@ -104,18 +104,10 @@
   <img src="https://raw.githubusercontent.com/powerblast-4/powerblast-4/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> ⚠️ The snake animation needs a one-time GitHub Actions setup — see the note below.
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:pratheeksha1509p@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center"><i>⭐️ Open to collaborations on AI, computer vision, and accessibility-focused projects!</i></p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer"/>
