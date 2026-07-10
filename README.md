@@ -20,7 +20,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year Diploma student in Computer Science Engineering
+- 🎓 Diploma in Computer Science Engineering
 - 🤖 Passionate about **AI, Machine Learning, and Computer Vision**
 - 🖐️ Built a real-time **Sign Language Recognition System** to bridge communication gaps
 - 🌱 Currently deepening my skills in **Deep Learning, Transfer Learning, CNNs, and Flask**
