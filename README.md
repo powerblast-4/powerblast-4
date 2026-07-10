@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pratheeksha 👋</h1>
+<h1 align="center">Hi, I'm Pratheeksha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 <h3 align="center">AI/ML Developer | Computer Vision Enthusiast | Building Tech for Accessibility</h3>
 
 <p align="center">
@@ -13,6 +13,8 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=120&section=header"/>
 
 ---
 
@@ -96,6 +98,16 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/powerblast-4/powerblast-4/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+> ⚠️ The snake animation needs a one-time GitHub Actions setup — see the note below.
+
+---
+
 ### 📫 Let's Connect
 
 <p align="center">
@@ -105,3 +117,5 @@
 </p>
 
 <p align="center"><i>⭐️ Open to collaborations on AI, computer vision, and accessibility-focused projects!</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer"/>
